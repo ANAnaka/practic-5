@@ -1,0 +1,15 @@
+C:\Users\annak\source\repos\Торт и ки\obj\Debug\net6.0\Торт и ки.csproj.AssemblyReference.cache
+C:\Users\annak\source\repos\Торт и ки\obj\Debug\net6.0\Торт и ки.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\annak\source\repos\Торт и ки\obj\Debug\net6.0\Торт и ки.AssemblyInfoInputs.cache
+C:\Users\annak\source\repos\Торт и ки\obj\Debug\net6.0\Торт и ки.AssemblyInfo.cs
+C:\Users\annak\source\repos\Торт и ки\obj\Debug\net6.0\Торт и ки.csproj.CoreCompileInputs.cache
+C:\Users\annak\source\repos\Торт и ки\bin\Debug\net6.0\Торт и ки.exe
+C:\Users\annak\source\repos\Торт и ки\bin\Debug\net6.0\Торт и ки.deps.json
+C:\Users\annak\source\repos\Торт и ки\bin\Debug\net6.0\Торт и ки.runtimeconfig.json
+C:\Users\annak\source\repos\Торт и ки\bin\Debug\net6.0\Торт и ки.dll
+C:\Users\annak\source\repos\Торт и ки\bin\Debug\net6.0\Торт и ки.pdb
+C:\Users\annak\source\repos\Торт и ки\obj\Debug\net6.0\Торт и ки.dll
+C:\Users\annak\source\repos\Торт и ки\obj\Debug\net6.0\refint\Торт и ки.dll
+C:\Users\annak\source\repos\Торт и ки\obj\Debug\net6.0\Торт и ки.pdb
+C:\Users\annak\source\repos\Торт и ки\obj\Debug\net6.0\Торт и ки.genruntimeconfig.cache
+C:\Users\annak\source\repos\Торт и ки\obj\Debug\net6.0\ref\Торт и ки.dll
